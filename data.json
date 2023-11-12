@@ -37,5 +37,8 @@
   {"added":"2023-07", "type": "radio", "name": "Mixcloud", "link": "https://www.mixcloud.com/discover/"},
   {"added":"2023-07", "type": "noise", "name": "Rainy mood", "link": "https://rainymood.com/"},
   {"added":"2023-10", "type": "artist", "name": "Penguin Café", "link": "https://music.youtube.com/channel/UCvrrPILTT_tlOcGXVACb0GA"},
-  {"added":"2023-10", "type": "artist", "name": "Jesca Hoop", "link": "https://music.youtube.com/channel/UCH-5_WYYadpXlPuG93aXIxQ"}
+  {"added":"2023-11", "type": "artist", "name": "Yagya", "link": "https://music.youtube.com/channel/UCh-kFfpgcAb51aV3dpf3kJw"},
+  {"added":"2023-11", "type": "artist", "name": "Oberst & Buchner", "link": "https://music.youtube.com/channel/UC2QBAVRy25S-0Z49Li_DZ5A"},
+  {"added":"2023-11", "type": "artist", "name": "Menke", "link": "https://music.youtube.com/channel/UCX_Obe8GWh6oI5afdOslP5w"},
+  {"added":"2023-11", "type": "artist", "name": "Lars Leonhard", "link": "https://music.youtube.com/channel/UC3pMcFL1hazyeUsKbBl4FyQ"}
 ]
