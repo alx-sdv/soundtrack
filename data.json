@@ -1,6 +1,5 @@
 [
   {"added":"2023-07", "type": "artist", "name": "HVOB", "link": "https://music.youtube.com/channel/UCBuve1i61flTZ2vKgPsMZXQ"},
-  {"added":"2023-07", "type": "artist", "name": "Booka Shade", "link": "https://music.youtube.com/channel/UCRXDxIwW43apjD935x3IfNw"},
   {"added":"2023-07", "type": "artist", "name": "Colyn", "link": "https://music.youtube.com/channel/UCK2caS_3HR5UK4hz99ig8YA"},
   {"added":"2023-07", "type": "artist", "name": "Eli & Fur", "link": "https://music.youtube.com/channel/UCq_W46vY3v51m-wGqKh29PQ"},
   {"added":"2023-07", "type": "artist", "name": "Jan Blomqvist", "link": "https://music.youtube.com/channel/UCQqqM3IZTj06Cnoz_um2obw"},
@@ -40,5 +39,8 @@
   {"added":"2023-11", "type": "artist", "name": "Yagya", "link": "https://music.youtube.com/channel/UCh-kFfpgcAb51aV3dpf3kJw"},
   {"added":"2023-11", "type": "artist", "name": "Oberst & Buchner", "link": "https://music.youtube.com/channel/UC2QBAVRy25S-0Z49Li_DZ5A"},
   {"added":"2023-11", "type": "artist", "name": "Menke", "link": "https://music.youtube.com/channel/UCX_Obe8GWh6oI5afdOslP5w"},
-  {"added":"2023-11", "type": "artist", "name": "Lars Leonhard", "link": "https://music.youtube.com/channel/UC3pMcFL1hazyeUsKbBl4FyQ"}
+  {"added":"2023-11", "type": "artist", "name": "Lars Leonhard", "link": "https://music.youtube.com/channel/UC3pMcFL1hazyeUsKbBl4FyQ"},
+  {"added":"2024-01", "type": "artist", "name": "NTO", "link": "https://music.youtube.com/channel/UC6Tg7GWjZw48EiZ8m5bRtWg"},
+  {"added":"2024-01", "type": "artist", "name": "Worakls", "link": "https://music.youtube.com/channel/UCIXXU6Ag0DMhte-I0AQkTpA"},
+  {"added":"2024-01", "type": "artist", "name": "Fejká", "link": "https://soundcloud.com/fejka"}
 ]

@@ -16,6 +16,6 @@ document.body.onload = async function() {
 		cAdded.innerHTML = data[i].added;
 		cType.innerHTML = `<span class="tag ${typeColors.get(data[i].type)}">${data[i].type}</span>`;
 		cName.innerHTML = `<a href="${data[i].link}" target="_blank">${data[i].name}</a>`;
-		cSource.innerHTML = `<span class="tag is-white">${data[i].link.includes('youtube') ? 'youtube' : 'other'}</span>`;
+		cSource.innerHTML = `<span class="tag is-white">${new URL(data[i].link).hostname}</span>`;
 	}
 }
